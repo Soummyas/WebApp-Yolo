@@ -1,0 +1,7 @@
+train: Goldfish/train
+val: Goldfish/test
+nc: 1
+names: [
+        'goldfish'
+]
+
